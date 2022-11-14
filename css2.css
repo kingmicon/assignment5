@@ -1,0 +1,42 @@
+* {
+    background-color: white;
+    
+}
+.first-section {
+    font-size: 14px;
+    padding: 18px 20px;
+    margin: 15px 14px;
+    border: 10px 5px;
+    color: green;
+}
+.first-section h1{
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.second-section {
+    font-size: 14px;
+    padding: 18px;
+    border: 10px;
+    margin: 15px;
+    color: red;
+}
+.second-section h1 {
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .third-section {
+        font-size: 14px;
+        padding: 18px 20px 10px;
+        border: 10px 15px 20px;
+        margin: 15px 10px 0px 5px;
+        color: blue;
+    }
+    .third-section h1{
+        font-weight: bold;
+        font-style: italic;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
